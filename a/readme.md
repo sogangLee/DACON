@@ -1,3 +1,1 @@
-#### 유전체 정보 품종 분류 AI 경진대회
-
-[Baseline] Label-Encoding + Random Forest  --> Label-Encoding + Linear
+#### 참가한 데이콘 대회, 코드, 결과 기록
